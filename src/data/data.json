@@ -1,11 +1,11 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "AI-driven Drug Discovery",
+    "paragraph": "The arrival of AI-driven drug discovery is revolutionizing the pharmaceutical landscape. Advanced algorithms and machine learning models are now accelerating the identification of potential drug candidates, drastically reducing research timelines."
   },
-  "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
+    "About": {
+     "paragraph": "As an AI-driven drug target discovery company, we are committed to not only identifying innovative drug targets but also expanding our technology into high-potential areas such as cell therapy and drug repurposing. Recognizing the transformative potential of cell therapies, we focus on their ability to offer faster market access compared to traditional drugs, which often require lengthy clinical trials.",
+     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
       "Lorem ipsum dolor",
